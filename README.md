@@ -8,8 +8,7 @@ It converts subj/stats/aseg.stats into more usable data format that outputs to s
 ## System Dependencies
 
 1. [julia](https://julialang.org/downloads/)
-2. [make](https://ftp.gnu.org/gnu/make/)
-  * optional: simply run the commands in Makefile under "asegparse"
+2. [make](https://ftp.gnu.org/gnu/make/) # optional: simply run the commands in Makefile under "asegparse"
 
 # Installation
 
